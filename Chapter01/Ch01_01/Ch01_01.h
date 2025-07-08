@@ -2,6 +2,9 @@
 //               Ch01_01.h
 //------------------------------------------------
 
+#include <stdint.h>
+#include <unistd.h>
+
 #pragma once
 
 // Ch01_01_fcpp.cpp
